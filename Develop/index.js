@@ -56,7 +56,38 @@ const questions = [{
             }
         }
     },
-    
+    {
+    type: 'input',
+    message: 'Add information about app installation',
+    name: 'installation'
+    },
+
+        {
+            type: 'list',
+            message: 'Choose the license from the list',
+            name: 'license',
+            choices: ['The Unlicense', 'GNU AGPLv3', 'Apache License 2.0', 'None']
+
+            },
+
+            {
+                type: 'input',
+                message: 'Please explain how to use the app',
+                name: 'usage',
+            },
+            
+            {
+                type:'input',
+                message: 'Please add contributors',
+                name: 'contributors'
+            },
+
+            {
+                type: 'input',
+                message: 'Add link to the screenshot',
+                name:'screenshot'
+            },
+
 ];
 
 // TODO: Create a function to write README file
