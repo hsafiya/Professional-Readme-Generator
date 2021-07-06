@@ -42,6 +42,20 @@ const questions = [{
             }
         }
     },
+
+    {
+        type: 'input',
+        message: 'Put any description',
+        name: 'description',
+        validate: descriptionInput => {
+            if (descriptionInput){
+                return true;
+            } else{
+                console.log('Provide descrition please');
+                return false;
+            }
+        }
+    },
     
 ];
 
