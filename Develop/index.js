@@ -111,7 +111,7 @@ function init() {inquirer.prompt(questions)
     return generateMarkdown(readmeData);
 })
 .then(readme =>{
- return writeToFile(readme);
+ return writeToFile("Readme.md",readme);
 })
 
 }
