@@ -26,5 +26,10 @@ ${license}
 ## Badges
 ## Screenshot
 ![alt text](${screenshot})
+##Contack us
+GitHub:https://github.com/${github}
+email:${email}
+
+
 `
 }
