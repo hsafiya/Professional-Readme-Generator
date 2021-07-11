@@ -1,9 +1,9 @@
 
-# gsdsgsdg
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+# Title
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
 ## Description
-gdssdgsd
+Description
   
 ## Table of Contents
   
@@ -13,19 +13,22 @@ gdssdgsd
 * [License](#license)
   
 ## Installation
-dsggsdg
+Installation
 ## Usage 
-fsdgsdgsf
+Using app
 ## Credits
-sdgdsgsd
+none
 ## License
-The Unlicense
+GNU AGPLv3
 
 ## Screenshot
-![alt text](dsgdsgsdg)
+![alt text]("link")
 
 ## Contact us
 
-GitHub: https://github.com/sgsfsdgs
+GitHub: https://github.com/username
 
-email:gsdsdgsd  
+email:email@gmail.com  
+
+
+##
